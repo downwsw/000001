@@ -1,0 +1,14 @@
+/home/nonentity/Рабочий стол/ggg/bin/Debug/net8.0/MedianFinder
+/home/nonentity/Рабочий стол/ggg/bin/Debug/net8.0/MedianFinder.deps.json
+/home/nonentity/Рабочий стол/ggg/bin/Debug/net8.0/MedianFinder.runtimeconfig.json
+/home/nonentity/Рабочий стол/ggg/bin/Debug/net8.0/MedianFinder.dll
+/home/nonentity/Рабочий стол/ggg/bin/Debug/net8.0/MedianFinder.pdb
+/home/nonentity/Рабочий стол/ggg/obj/Debug/net8.0/MedianFinder.GeneratedMSBuildEditorConfig.editorconfig
+/home/nonentity/Рабочий стол/ggg/obj/Debug/net8.0/MedianFinder.AssemblyInfoInputs.cache
+/home/nonentity/Рабочий стол/ggg/obj/Debug/net8.0/MedianFinder.AssemblyInfo.cs
+/home/nonentity/Рабочий стол/ggg/obj/Debug/net8.0/MedianFinder.csproj.CoreCompileInputs.cache
+/home/nonentity/Рабочий стол/ggg/obj/Debug/net8.0/MedianFinder.dll
+/home/nonentity/Рабочий стол/ggg/obj/Debug/net8.0/refint/MedianFinder.dll
+/home/nonentity/Рабочий стол/ggg/obj/Debug/net8.0/MedianFinder.pdb
+/home/nonentity/Рабочий стол/ggg/obj/Debug/net8.0/MedianFinder.genruntimeconfig.cache
+/home/nonentity/Рабочий стол/ggg/obj/Debug/net8.0/ref/MedianFinder.dll
